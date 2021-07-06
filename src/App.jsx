@@ -20,7 +20,7 @@ function App() {
        <Works/>
        <Testimonials/>
        <Contact/>
-     </div>
+     </div> 
     </div>
   );
 }
