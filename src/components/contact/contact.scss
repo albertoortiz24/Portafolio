@@ -1,7 +1,8 @@
 @import "../../global.scss";
 
 .contact{
-    background-color: white;
+  background: rgb(41,41,89);
+background: linear-gradient(180deg, rgba(41,41,89,1) 5%, rgba(241,241,241,1) 79%, rgba(255,255,255,1) 98%);
     display: flex;
 
     @include mobile {

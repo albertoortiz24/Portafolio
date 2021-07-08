@@ -1,7 +1,8 @@
 @import '../../global.scss';
 
 .portafolio{
-    background-color: white;
+    background: rgb(98,97,108);
+    background: linear-gradient(180deg, rgba(98,97,108,1) 32%, rgba(41,41,89,1) 70%, rgba(41,41,89,1) 100%);
     display: flex;
     flex-direction: column;
     align-items: center;

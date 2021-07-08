@@ -13,7 +13,7 @@ export default function Intro() {
           backDelay:1500,
           backSpeed:60,    
           strings: 
-        ['Developer', 'Designer','With React JS' ] 
+        ['Developer', 'Designer','Front-End' ] 
         })
     }, [])
 

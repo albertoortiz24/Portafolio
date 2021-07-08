@@ -15,7 +15,7 @@ export default function Portafolio() {
     const list = [
         {
           id: "featured",
-          title: "Featured",
+          title: "E-commerce",
         },
         {
           id: "web",
@@ -27,11 +27,11 @@ export default function Portafolio() {
         },
         {
           id: "design",
-          title: "Design",
+          title: "Design App",
         },
         {
           id: "content",
-          title: "Content",
+          title: "Games App",
         },
       ];
       useEffect(() => {
